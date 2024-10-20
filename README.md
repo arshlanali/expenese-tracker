@@ -1,4 +1,4 @@
-# React Expense Tracker App
+# React Pocket Pilot App
 
 Developer: Arshlan Ali
 
@@ -6,11 +6,11 @@ Initial Commit To GitHub: 19-10-24
 
 ## Introduction
 
-The Expense Tracker App is a user-friendly React application designed to assist users in managing their personal finances. By tracking income and expenses, this app provides a clear overview of financial activities, enabling better budgeting and financial planning.
+The Pocket Pilot is a user-friendly React application designed to assist users in managing their personal finances. By tracking income and expenses, this app provides a clear overview of financial activities, enabling better budgeting and financial planning.
 
 ## Getting Started
 
-To run the Expense Tracker App:
+To run the Pocket Pilot App:
 1. Ensure you have Node.js and npm installed.
 2. Clone the repository to your local machine.
 3. Navigate to the project directory in your console.
@@ -40,7 +40,7 @@ This project was instrumental in enhancing my understanding of React's functiona
 
 ## Future Enhancements
 
-Plans for future development of the Expense Tracker App include:
+Plans for future development of the Pocket Pilot App include:
 
 - Implementing more advanced features such as budget planning and financial reports.
 - Integrating a database for persistent storage of user data.
@@ -48,9 +48,9 @@ Plans for future development of the Expense Tracker App include:
 
 ## Conclusion
 
-The Expense Tracker App represents a significant step in my journey as a React developer. It showcases not only my technical skills but also my commitment to creating practical, user-centric software solutions.
+The Pocket Pilot App represents a significant step in my journey as a React developer. It showcases not only my technical skills but also my commitment to creating practical, user-centric software solutions.
 
-Thank you for your interest in the Expense Tracker App. Feedback and contributions are highly appreciated!
+Thank you for your interest in the Pocket Pilot App. Feedback and contributions are highly appreciated!
 
 
 
