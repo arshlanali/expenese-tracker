@@ -25,7 +25,7 @@ To run the Pocket Pilot App:
 
 
 ## Screenshots 
-
+<img src = "https://github.com/arshlanali/pocket-pilot/blob/main/Screenshots/Screenshot%202024-06-18%20195625.png">
 
 
 ## Technical Insights
